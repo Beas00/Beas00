@@ -5,7 +5,6 @@
 - 📫 <Strong>How to reach me usually available on Discord and Telegram as ![#Beas00](http://placehold.it/size/background-hex/foreground-hex?text=a123)</Strong>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-
   <span>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<span>
   <span>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<span>
   <span>![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)<span>
@@ -21,7 +20,7 @@
   <span>![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)<span>
   <span>![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)<span>
   <span>![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)</span>
-
+<br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beas00)](https://github.com/Beas00/github-readme-stats)
 <br><br>  
    
