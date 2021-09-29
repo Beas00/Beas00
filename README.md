@@ -3,7 +3,8 @@
 - 🌱 <Strong>I’m currently learning JavaScript and Solidity</Strong> 
 - 💞️ <Strong>I’m looking to collaborate on team with project on Blockchain Ethereum, JavaScript</Strong> 
 - 📫 <Strong>How to reach me usually available on Discord and Telegram as @Beas00</Strong>
-- <span>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<span>
+
+  <span>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<span>
   <span>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<span>
   <span>![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)<span>
   <span>![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)<span>
