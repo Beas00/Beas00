@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Szymon Lacz with username @beas00 
-- 👀 I’m interested in photography,blockchain,Ethereum, DeFi,
-- 🌱 I’m currently learning JavaScript and Solidity 
-- 💞️ I’m looking to collaborate on team with project on Blockchain Ethereum, JavaScript 
-- 📫 How to reach me usually available on Discord and Telegram as @Beas00
+- 👋 <Strong>Hi, I’m Szymon Lacz with username @beas00</Strong> 
+- 👀 <Strong>I’m interested in photography,blockchain,Ethereum, DeFi,</Strong>
+- 🌱 <Strong>I’m currently learning JavaScript and Solidity</Strong> 
+- 💞️ <Strong>I’m looking to collaborate on team with project on Blockchain Ethereum, JavaScript</Strong> 
+- 📫 <Strong>How to reach me usually available on Discord and Telegram as @Beas00</Strong>
 - <span>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<span>
   <span>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<span>
   <span>![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)<span>
