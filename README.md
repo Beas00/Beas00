@@ -20,3 +20,9 @@
   <span>![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)</span>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beas00)](https://github.com/Beas00/github-readme-stats)
+    
+    
+ <br><br>
+    ![](https://komarev.com/ghpvc/?username=your-github-Beas00)
+ 
+
