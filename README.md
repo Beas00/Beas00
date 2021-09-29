@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on team with project on Blockchain Ethereum, JavaScript 
 - 📫 How to reach me usually available on Discord and Telegram as @Beas00
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beas00)](https://github.com/Beas00/github-readme-stats)
