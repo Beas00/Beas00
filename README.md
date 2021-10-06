@@ -21,12 +21,12 @@
   <span>![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)<span>
   <span>![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)</span>
 <br><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beas00)](https://github.com/Beas00/github-readme-stats)
+
+
 <br><br>  
     
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beas00)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beas00&count_private=true)
 
-   
 
  <br><br>
     ![](https://komarev.com/ghpvc/?username=your-github-Beas00)
