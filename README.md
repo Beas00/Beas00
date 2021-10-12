@@ -29,7 +29,7 @@
 
 <br><br>
     
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beas00&count_private=true)]
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beas00)]
 
  <br><br>
     ![](https://komarev.com/ghpvc/?username=your-github-Beas00)
