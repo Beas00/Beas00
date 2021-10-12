@@ -27,7 +27,9 @@
     
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Beas00&count_private=true&show_icons=true&theme=radical))
 
-
+<br><br>
+    
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beas00&count_private=true)]
 
  <br><br>
     ![](https://komarev.com/ghpvc/?username=your-github-Beas00)
