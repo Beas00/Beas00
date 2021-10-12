@@ -27,9 +27,6 @@
     
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Beas00&count_private=true&show_icons=true&theme=radical))
 
-<br><br>
-    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beas00&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
  <br><br>
