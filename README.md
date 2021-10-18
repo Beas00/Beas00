@@ -25,9 +25,9 @@
 
 <br><br>  
     
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Beas00&count_private=true&show_icons=true&theme=radical)
+ 
 
-
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Beas00&count_private=true&show_icons=true&theme=radical)
 
  <br><br>
     ![](https://komarev.com/ghpvc/?username=your-github-Beas00)
