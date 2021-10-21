@@ -24,13 +24,14 @@
 
 
 <br><br>  
-    
+    [![Spotify](https://Beas00.vercel.app/api/spotify)](https://open.spotify.com/user/Beas00)
  
 
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Beas00&count_private=true&show_icons=true&theme=radical)
 
  <br><br>
     ![](https://komarev.com/ghpvc/?username=your-github-Beas00)
+    
     
 
  
