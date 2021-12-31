@@ -1,7 +1,7 @@
 - 👋 <Strong>Hi, I’m Szymon Lacz with username ![#Beas00](http://placehold.it/size/background-hex/foreground-hex?text=a123)</Strong> 
 - 👀 <Strong>I’m interested in photography,blockchain,Ethereum, DeFi,</Strong>
 - 🌱 <Strong>I’m currently learning JavaScript and Solidity</Strong> 
-- 💞️ <Strong>I’m looking to collaborate on team with project on Blockchain Ethereum,</Strong> 
+- 💞️ <Strong>I’m looking to collaborate on team with project on Blockchain Ethereum or Ecommerce. </Strong> 
 - 📫 <Strong>How to reach me usually available on Discord and Telegram as ![#Beas00](http://placehold.it/size/background-hex/foreground-hex?text=a123)</Strong>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
