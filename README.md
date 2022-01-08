@@ -28,10 +28,10 @@
     
     
   <span>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)<span>
-  <span>![Twitter](https://img.shields.io/badge/<@LaczSzymon>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)<span>
+  <span><a href="https://www.facebook.com/AparatSzymek">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)<span>
   <span>![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)<span>
   <span><a href="https://www.linkedin.com/in/szymon-lacz-275737196/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<span>
-  <span>![Discord](https://img.shields.io/badge/%3CBeas%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)<span>
+  <span><a href="https://discord.com/channels/926434503432474644/926434503432474646">![Discord](https://img.shields.io/badge/%3CBeas%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)<span>
   <span>![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)<span>
   
 <br><br>
