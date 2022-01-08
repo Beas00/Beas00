@@ -24,7 +24,7 @@
   <span>![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)</span>
     
  ## Contact
-    
+   - <strong> Click on bagde bellow to reach me </strong>
     
     
   <span><a href="https://t.me/beas00">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)<span>
